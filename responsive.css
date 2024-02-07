@@ -1,0 +1,10 @@
+@media (max-width: 500px) and (min-width: 300px){
+
+    body {
+        display: none;
+        
+    }
+    .left-sidebar {
+        display: flex;
+    }
+}
